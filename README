@@ -1,0 +1,5 @@
+Usage: JSpherePath [--radius=<r> --step=<d>] <path_file> <urban_scene> [<directory]
+
+* Spherical projection of a urban scene.
+* Compatible with Java 1.4
+* Project developed by François Sarradin during the period 2004-2005.
