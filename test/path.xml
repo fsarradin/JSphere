@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : path.xml
+    Created on : 14 avril 2004, 16:35
+    Author     : fs
+    Description:
+        Purpose of the document follows.
+-->
+
+<path>
+  <point x="-50" y="5" z="1.6" />
+  <point x="60" y="5" z="1.6" />
+</path>

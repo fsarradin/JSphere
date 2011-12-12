@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<urban-scene>
+<!--
+Representation of linear street with a tour
+-->
+
+<!-- left wall -->
+  <face>
+    <point x="-50.0" y="0.0" z="0.0" />
+    <point x="60.0" y="0.0" z="0.0" />
+    <point x="60.0" y="0.0" z="10.0" />
+    <point x="-50.0" y="0.0" z="10.0" />
+  </face>
+<!-- right wall -->
+  <face>
+    <point x="-50.0" y="10.0" z="0.0" />
+    <point x="60.0" y="10.0" z="0.0" />
+    <point x="60.0" y="10.0" z="10.0" />
+    <point x="-50.0" y="10.0" z="10.0" />
+  </face>
+<!-- Tour (3 faces) -->
+  <face>
+    <point x="70.0" y="0.0" z="0.0" />
+    <point x="70.0" y="0.0" z="50.0" />
+    <point x="70.0" y="10.0" z="50.0" />
+    <point x="70.0" y="10.0" z="0.0" />
+  </face>
+  <face>
+    <point x="70.0" y="0.0" z="0.0" />
+    <point x="90.0" y="0.0" z="0.0" />
+    <point x="90.0" y="0.0" z="50.0" />
+    <point x="70.0" y="0.0" z="50.0" />
+  </face>
+  <face>
+    <point x="90.0" y="0.0" z="0.0" />
+    <point x="90.0" y="0.0" z="50.0" />
+    <point x="90.0" y="10.0" z="50.0" />
+    <point x="90.0" y="10.0" z="0.0" />
+  </face>
+</urban-scene>
